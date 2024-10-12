@@ -1,13 +1,13 @@
 # include <iostream>
 # include <string>
 # include <fstream>
-# include <cstdlib>
-# include <iomanip>
-# include <algorithm>
-/* # include <bits/stdc++.h>
+// # include <cstdlib>
+// # include <iomanip>
+// # include <algorithm>
+# include <bits/stdc++.h>
 # include "Calculate.h"
 # include "Subject.h"
-# include "Student.h"*/
+# include "Student.h"
 
 using namespace std;
 
