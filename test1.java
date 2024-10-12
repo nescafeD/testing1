@@ -4,8 +4,8 @@ import com.kingyu.flappybird.component.GameElementLayer;
 import com.kingyu.flappybird.component.Bird;
 import com.kingyu.flappybird.component.GameBackground;
 import com.kingyu.flappybird.component.GameForeground;
-import com.kingyu.flappybird.component.WelcomeAnimation;
-
+// import com.kingyu.flappybird.component.WelcomeAnimation;
+// abcd e
 import static com.kingyu.flappybird.util.Constant.FRAME_HEIGHT;
 import static com.kingyu.flappybird.util.Constant.FRAME_WIDTH;
 import static com.kingyu.flappybird.util.Constant.FRAME_X;
@@ -14,9 +14,9 @@ import static com.kingyu.flappybird.util.Constant.FPS;
 import static com.kingyu.flappybird.util.Constant.GAME_TITLE;
 
 import java.awt.Frame;
-// import java.awt.Graphics;
-// import java.awt.event.*;
-// import java.awt.image.BufferedImage;
+import java.awt.Graphics;
+import java.awt.event.*;
+import java.awt.image.BufferedImage;
 
 
 /**
