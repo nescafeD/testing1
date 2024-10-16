@@ -1,9 +1,9 @@
 # include <iostream>
 # include <string>
 # include <fstream>
-// # include <cstdlib>
-// # include <iomanip>
-// # include <algorithm>
+#include "BuildConfig.h.in"
+#include "BuildConfig.h"
+#include "src/bootstrapper/BootstrapperFactory.h"
 # include <bits/stdc++.h>
 # include "Calculate.h"
 # include "Subject.h"
